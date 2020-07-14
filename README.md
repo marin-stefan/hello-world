@@ -1,3 +1,3 @@
 # hello-world
-my first repository
+this is my first repository
 i don't like fish
